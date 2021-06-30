@@ -3,4 +3,4 @@ This is the official implementation of the paper namely Real-Time Anomaly Detect
 
 [Paper Link](https://ieeexplore.ieee.org/abstract/document/9426191)
 
-[Paper-with-code](Real-Time Anomaly Detection and Feature Analysis Based on Time Series for Surveillance Video)
+[Paper-with-code](https://paperswithcode.com/paper/real-time-anomaly-detection-and-feature)
